@@ -1,2 +1,2 @@
 # miro_lessons
-Miro lessons (4 levels)
+Miro lessons (3 levels)
